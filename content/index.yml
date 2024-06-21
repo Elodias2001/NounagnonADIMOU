@@ -1,0 +1,83 @@
+title: "Elodias ADIMOU - Portofolio"
+description: Le Portofolio d'un DEV en quête de la meilleure façon de faire les choses.
+navigation: false
+hero:
+  title: "MiaWézon"
+  description: "Bienvenue dans le coin de ma tête qui code 😄 ! Attachez vos ceintures et préparez-vous à découvrir mes skills façon Naruto Uzumaki. Vous êtes prêts ?"
+  orientation: horizontal
+  headline:
+    label: "#MiabéCodeur👨‍💻"
+    # to: https://ui.nuxt.com/pro
+    # icon: i-heroicons-arrow-top-right-on-square-20-solid
+  links:
+    # - label: Get started
+    #   icon: i-heroicons-arrow-right-20-solid
+    #   trailing: true
+    #   to: "/getting-started"
+    #   size: lg
+    # - label: Use this template
+    #   icon: i-simple-icons-github
+    #   size: lg
+    #   color: gray
+    #   to: https://github.com/Elodias2001
+    #   target: _blank
+  code: |
+    ```bash [Terminal]
+    npx nuxi init -t portofolio:Développeur Web Full Stack 🚀
+
+    console.log("Salut à tous, moi c'est Elodias ADIMOU, mais tu peux m'appeler le dev qui déchire 🔥.
+
+    Je suis tombé dans la marmite du dev web il y a quelques années et depuis, je ne cesse de coder des trucs cools. Mon kiff ? Transformer des idées en projets web qui dépotent.
+
+    Je suis toujours partant pour de nouveaux défis, alors si t'as un projet cool en tête, n'hésite pas à me contacter !
+
+    Peace ✌️
+    ");
+
+    ```
+features:
+  title: "Mes Jutsus 😜"
+  links:
+    - label: "🛠️ Alors ! Voilà un peu les techniques que j'exécute pour le moment, dattebayo !🔥"
+      # icon: "i-simple-icons-nuxtdotjs"
+      # trailingIcon: "i-heroicons-arrow-right-20-solid"
+      color: "gray"
+      # to: "https://ui.nuxt.com/pro"
+      target: "_blank"
+      size: lg
+  items:
+    - title: "Laravel"
+      description: "Je maîtrise le développement backend avec Laravel pour des apps web qui défoncent ! 🌀"
+      icon: "i-simple-icons-laravel"
+      # to: "https://laravel.com"
+      target: "_blank"
+
+    - title: "AdonisJs"
+      description: "AdonisJs, c'est mon arme secrète pour des apps backend ultra performantes. 🌪️"
+      icon: "i-simple-icons-adonisjs"
+      # to: "https://adonisjs.com"
+      target: "_blank"
+
+    - title: "VueJS"
+      description: "Avec VueJS, je crée des frontends hyper réactifs et dynamiques. 🔥"
+      icon: "i-simple-icons-vuedotjs"
+      # to: "https://vuejs.org"
+      target: "_blank"
+
+    - title: "NuxtJS"
+      description: "NuxtJS, pour des perfs et un SEO au top ! Prêt à faire décoller tes projets. 🚀"
+      icon: "i-simple-icons-nuxtdotjs"
+      # to: "https://nuxtjs.org"
+      target: "_blank"
+
+    - title: "TailwindCSS"
+      description: "Avec TailwindCSS, je stylise comme un pro, vite fait bien fait. 🌊"
+      icon: "i-simple-icons-tailwindcss"
+      # to: "https://tailwindcss.com"
+      target: "_blank"
+
+    - title: "TypeScript"
+      description: "Je kiffe le développement super typé avec TypeScript. Ça envoie du pâté ! ⚡"
+      icon: "i-simple-icons-typescript"
+      # to: "https://www.typescriptlang.org"
+      target: "_blank"
